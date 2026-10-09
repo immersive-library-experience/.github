@@ -3,10 +3,11 @@
 Two public installations that turn a collection into something you can walk up to and explore, built on one
 open framework:
 
-- **Collection Wall OpenStack 2.0** (TU Delft Library): open-access publications as an interactive wall,
-  with room for serendipity.
-- **Van muziekbibliotheek naar publieksbeleving** (Beeld & Geluid): the music collection in context, with
-  the newspapers of the time, in the Collectiegebouw.
+- **Collection Wall OpenStack 2.0** ([TU Delft Library](https://www.tudelft.nl/en/library/visit/relax-and-get-inspired/collection-wall-at-the-tu-delft-library)):
+  open-access publications as an interactive wall, with room for serendipity.
+- **Van muziekbibliotheek naar publieksbeleving** ([Fonos](https://www.beeldengeluid.nl/fonos), Beeld & Geluid):
+  the music collection in context, with the newspapers of the time, in Beeld & Geluid's new music location
+  in Hilversum.
 
 | Repository | What |
 |---|---|
