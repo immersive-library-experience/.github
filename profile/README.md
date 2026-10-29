@@ -5,7 +5,7 @@ open framework:
 
 - **Collection Wall OpenStack 2.0** ([TU Delft Library](https://www.tudelft.nl/en/library/visit/relax-and-get-inspired/collection-wall-at-the-tu-delft-library)):
   open-access publications as an interactive wall, with room for serendipity.
-- **Van muziekbibliotheek naar publieksbeleving** ([Fonos](https://www.beeldengeluid.nl/fonos), Beeld & Geluid):
+- **Van muziekbibliotheek naar publieksbeleving** ([Fonos](https://fonos.nl), Beeld & Geluid):
   the music collection in context, with the newspapers of the time, in Beeld & Geluid's new music location
   in Hilversum.
 
